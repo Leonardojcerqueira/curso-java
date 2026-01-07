@@ -1,0 +1,14 @@
+# Pastas geradas
+bin/
+out/
+target/
+
+# Arquivos compilados
+*.class
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
